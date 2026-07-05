@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project predicts whether a student will pass or fail using machine learning techniques.
 
+## 📂 Dataset
+This project uses the **Student Performance Factors** dataset from Kaggle by **lainguyn123**.
+
 ## 📊 Features Used
 - Hours Studied
 - Attendance
